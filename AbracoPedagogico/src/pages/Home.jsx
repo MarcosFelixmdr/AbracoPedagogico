@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 
+
+
 function Home() {
   return (
     <div className="home-redesigned">
@@ -51,10 +53,10 @@ function Home() {
         <div className="ods-badge">ODS 4</div>
         <div className="ods-text">
           <h3>Compromisso com a Educação de Qualidade</h3>
-          <p>
-            Contribuímos para a meta 4.c: valorização e formação de professores
-            para um futuro sustentável.
-          </p>
+          <h4>
+            Contribuímos para a meta 4.c: valorização e formação de professores,
+            sem professores bem preparados e valorizados não há futuro sustentável.
+          </h4>
         </div>
       </section>
     </div>
