@@ -1,5 +1,5 @@
 # AbraçoPedagógico
-Trabalho final curso BFD UFF 2025
+Trabalho final curso BFD UFF 2025 -
 Um projeto voltado para **educação inclusiva, acessibilidade e apoio aos professores**.
 
 ## 🎯 Objetivo
